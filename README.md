@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm Narayan
 
-<!--
-**Narayan-21/Narayan-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🚀 **Quick Info:**
+- 🔭 I’m currently working on Nothing but something.
+- 🌱 I’m currently learning Everything.
+- 👯 I’m looking to collaborate on Python / JS stuff.
+- 📫 How to reach me: naaidjan.19@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and build something awesome together!
+
+<div align="center">
+    <div style="width: 50%; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=radical" alt="Your GitHub Stats" style="height: 100%;">
+    </div>
+    <div style="width: 50%; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&layout=compact" alt="Your Top Languages" style="height: 100%;">
+    </div>
+</div>
+
+
+🌟 **Projects:**
+- [Project 1 .....Coming soon](#)
+- [Project 2 .....Coming soon](#)
+- [Project 3 .....Coming soon](#)
+
+📫 **Reach Me:**
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nryn-221/)
+
+Thanks for stopping by! 😊
