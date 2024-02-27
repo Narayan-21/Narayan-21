@@ -15,7 +15,10 @@ Let's connect and build something awesome together!
         <img src="https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=radical" alt="Your GitHub Stats" style="height: 100%;">
     </div>
     <div style="width: 50%; height: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&layout=compact" alt="Your Top Languages" style="height: 100%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-21&theme=dark&hide_border=false" alt="Your Top Languages" style="height: 100%;">
+    </div>
+    <div style="width: 50%; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 100%;">
     </div>
 </div>
 
