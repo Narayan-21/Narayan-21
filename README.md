@@ -9,7 +9,9 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: naaidjan.19@gmail.com.
 
 Let's connect and build something awesome together!
-![Visitors](https://komarev.com/ghpvc/?username=Narayan-21&color=grey&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
+<div align="center">
+    ![Visitors](https://komarev.com/ghpvc/?username=Narayan-21&color=grey&style=plastic&label=PROFILE+VIEWS&abbreviated=true)    
+</div>
 <div align="center">
     <div style="width: 50%; height: 200px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=dark" alt="Your GitHub Stats" style="height: 100%;">
