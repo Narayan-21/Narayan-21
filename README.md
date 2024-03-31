@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!
 
 🚀 **Quick Info:**
-- 🔭 I’m currently working on Nothing but something.
-- 🌱 I’m currently learning Everything.
-- 👯 I’m looking to collaborate on Python / JS stuff.
+- 🔭 I’m currently working on Python + NLP + CV.
+- 🌱 I’m currently learning Cpp / MERN.
+- 👯 I’m looking to collaborate on Python / Cpp / JS stuff.
 - 📫 How to reach me: naaidjan.19@gmail.com.
 
 Let's connect and build something awesome together!
