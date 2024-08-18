@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 🚀 **Quick Info:**
 - 🔭 I’m currently working on Python + NLP + CV.
-- 🌱 I’m currently learning Cpp / MERN.
-- 👯 I’m looking to collaborate on Python / Cpp / JS stuff.
+- 🌱 I’m currently learning Golang / MERN.
+- 👯 I’m looking to collaborate on ML / Web Dev stuff.
 - 📫 How to reach me: naaidjan.19@gmail.com.
 
 Let's connect and build something awesome together!
