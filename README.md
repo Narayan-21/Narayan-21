@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&size=22&pause=1000&color=F73636&center=true&width=450&height=70&lines=Hi+There!+This+is+Narayan.+;Data+Scientist+and+a+curious+developer;Welcome+to+My+Github+account.)](https://git.io/typing-svg)
+<div align="center>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&size=22&pause=1000&color=F73636&center=true&width=450&height=70&lines=Hi+There!+This+is+Narayan.+;Data+Scientist+and+a+curious+developer;Welcome+to+My+Github+account.)](https://git.io/typing-svg)    
+</div>
 
 Welcome to my GitHub profile!
 
@@ -22,9 +24,6 @@ Let's connect and build something awesome together!
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&theme=dark&hide_border=false&count_private=true&layout=compact" style="height: 100%;">
     </div>
 </div>
-
-**Contributions**
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 **Skills**
 
