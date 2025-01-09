@@ -8,8 +8,8 @@
 Welcome to my GitHub profile!
 
 🚀 **Quick Info:**
-- 🔭 I’m currently working on Python + NLP + CV.
-- 🌱 I’m currently learning Golang + MERN + System Design + Web3.
+- 🔭 I’m currently working as a Data Scientist.
+- 🌱 Continuously learning NLP + Time Series + Reinforcement Learning + MERN + System Design.
 - 👯 I’m looking to collaborate on ML / Web Dev stuff.
 - 📫 How to reach me: naaidjan.19@gmail.com.
 
