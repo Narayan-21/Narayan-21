@@ -17,16 +17,19 @@ Let's connect and build something awesome together!
 <br></br>
 ![Visitors](https://komarev.com/ghpvc/?username=Narayan-21&color=grey&style=plastic&label=PROFILE+VIEWS&abbreviated=true) 
 <div align="center">
-    <div style="width: 50%; height: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Narayan-21/github-readme-stats#gh-dark-mode-only)" alt="Your Top Languages" style="height: 100%;">
-    </div>
-    <div style="width: 50%; height: 200px;">
-        [![GitHub Streak](https://streak-stats.demolab.com?user=Narayan-21&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-    </div>
-    <div style="width: 50%; height: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&theme=dark&hide_border=false&count_private=true&layout=compact" style="height: 100%;">
-    </div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&size=25&pause=1000&color=0000FF&center=true&width=500&height=70&lines=Hi+There!+This+is+Narayan.+;Welcome+to+My+Github+account.)](https://git.io/typing-svg)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=dark)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Narayan-21&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&theme=dark&hide_border=false&count_private=true&layout=compact)
+
 </div>
+
 
 **Skills**
 
