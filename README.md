@@ -18,10 +18,6 @@ Let's connect and build something awesome together!
 ![Visitors](https://komarev.com/ghpvc/?username=Narayan-21&color=grey&style=plastic&label=PROFILE+VIEWS&abbreviated=true) 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matemasie&size=25&pause=1000&color=0000FF&center=true&width=500&height=70&lines=Hi+There!+This+is+Narayan.+;Welcome+to+My+Github+account.)](https://git.io/typing-svg)
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narayan-21&show_icons=true&theme=dark)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Narayan-21&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
