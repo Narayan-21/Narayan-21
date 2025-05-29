@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 🚀 **Quick Info:**
 - 🔭 I’m currently working as a Data Scientist.
-- 🌱 Highly interest in - NLP + Time Series + Reinforcement Learning + ML System Design + Parallel computing.
+- 🌱 NLP | Time Series | RL | ML System Design | Parallel Computing Enthusiast
 - 📫 How to reach me: naaidjan.19@gmail.com.
 
 Let's connect and build something awesome together!
