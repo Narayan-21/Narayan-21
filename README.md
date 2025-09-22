@@ -21,8 +21,6 @@ Let's connect and build something awesome together!
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Narayan-21&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-21&theme=dark&hide_border=false&count_private=true&layout=compact)
-
 </div>
 
 
