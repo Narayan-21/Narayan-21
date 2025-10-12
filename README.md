@@ -1,14 +1,13 @@
 
 ## 👋 Hi, this is Narayan
 I’m an AI/ML Engineer passionate about solving real-world problems using Machine Learning, Deep Learning, and System Design.<br/><br/>
-I graduated from IISER Kolkata (Earth Sciences Major, Physics Minor). I’m into all things AI and deep learning - always curious about what’s next in the field. I love tinkering with new ML/AI concepts and seeing how it can solve real problems. Check out my projects, work experience, and thoughts in the blog section.
+I graduated from IISER Kolkata with a major in Earth Sciences and a minor in Physics. I’m deeply interested in all things AI - always curious about what’s next in the field. I enjoy tinkering with new ML/AI concepts and exploring how they can solve real-world problems.
 <br/><br/>
 Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Probability & Statistics
-<br/>
-Currently Exploring: LLM Agents | Parallel Computing | ML System Design | RL 
 <br><br/>
-Cheers! Narayan Jangid
+Cheers, <br/> Narayan Jangid
 <br/><br/>
+Check out my projects, work experience, and thoughts in the blog section below -<br/>
 [Narayan-21.github.io/](https://narayan-21.github.io/) 
 
 <div align="center">
