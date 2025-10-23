@@ -5,15 +5,6 @@ I graduated from IISER Kolkata with a major in Earth Sciences and a minor in Phy
 <br/><br/>
 Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Probability & Statistics
 <br><br/>
-Cheers, <br/> Narayan Jangid
-<br/><br/>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Narayan-21&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 
 
 <p align="center">
