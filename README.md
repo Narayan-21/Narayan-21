@@ -7,8 +7,6 @@ Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Prob
 <br><br/>
 Cheers, <br/> Narayan Jangid
 <br/><br/>
-Check out my projects, work experience, and thoughts in the blog section below -<br/>
-[Narayan-21.github.io/](https://narayan-21.github.io/) 
 
 <div align="center">
   
