@@ -1,7 +1,6 @@
 
 ## 👋 Hi, this is Narayan
-I’m an AI/ML Engineer passionate about solving real-world problems using Machine Learning, Deep Learning, and System Design.<br/><br/>
-I graduated from IISER Kolkata with a major in Earth Sciences and a minor in Physics. I’m deeply interested in all things AI - always curious about what’s next in the field. I enjoy tinkering with new ML/AI concepts and exploring how they can solve real-world problems.
+I’m an AI/ML Engineer.<br/><br/>
 <br/><br/>
 Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Probability & Statistics
 <br><br/>
