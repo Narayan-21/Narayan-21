@@ -1,6 +1,6 @@
 
 ## 👋 Hi, this is Narayan
-AI/ML Engineer
+AI/ML Engineer <br>
 Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Probability & Statistics
 <p align="center">
     <a href="https://www.linkedin.com/in/nryn-221/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
