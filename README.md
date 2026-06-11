@@ -1,6 +1,6 @@
 
 ## 👋 Hi, this is Narayan
-I’m an AI/ML Engineer.<br/><br/>
+AI/ML Engineer.<br/><br/>
 <br/><br/>
 Interests: NLP | Time Series | RL | ML System Design | Parallel Computing | Probability & Statistics
 <p align="center">
